@@ -1,0 +1,24 @@
+body {
+    font-family: roboto;
+}
+
+h1 {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+}
+h2{
+    
+    border-bottom: 2px solid #3D3D3D;
+}
+
+img{
+    display: block;
+    margin:auto;
+    background-color: whitesmoke;
+    color : lightgrey;
+}
+
+figcaption{
+    text-align: center;
+}
+    
